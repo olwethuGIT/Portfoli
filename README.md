@@ -1,2 +1,2 @@
-# Portfoli
-This is a personal information portfolio
+# Portfolio
+This is a personal information site.
